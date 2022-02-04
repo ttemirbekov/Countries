@@ -59,7 +59,7 @@ public class Main {
         System.out.println("Location: " + country3.getLocation());
         System.out.println("Capital: " + country3.getCapitall());
         System.out.println("Total Area: " + country3.getArea() + " million sq km");
-        System.out.println("Popilaton: " + country3.getPopulation() + " " + "million people");
+        System.out.println("Populaton: " + country3.getPopulation() + " " + "million people");
         System.out.println("Currency: " + country3.getCurrency());
         System.out.println("President: " + country3.getPresident());
         System.out.println("Prime-Minister: " + country3.getPrimeminister());
