@@ -2,14 +2,14 @@ package com.company;
 
 public class Country1 {
 
-    String name;
-    String location;
-    String capitall;
-    double area;
-    double population;
-    String currency;
-    String emperor;
-    String primeminister;
+   private String name;
+   private String location;
+   private String capitall;
+   private double area;
+   private double population;
+   private String currency;
+   private String emperor;
+   private String primeminister;
 
     public String getName() {
         return name;
